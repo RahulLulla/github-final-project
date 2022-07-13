@@ -6,7 +6,7 @@
 
 # Author: RahulLulla (IBM)
 # Additional Authors:
-# <your GitHub username>
+# RahulLulla
 
 # Input:
 # p, principal amount
